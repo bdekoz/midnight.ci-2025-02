@@ -6,7 +6,19 @@
 
 
 ## Results
-- [docs_google_sharing](/pages/2025-02-12-windows-11-docs_google_sharing-aggregate.svg)
+| URL         | Windows     | Linux       |
+| ----------- | ----------- | ----------- |
+| docs_google_sharing            |  [Y](/pages/2025-02-12-windows-11-docs_google_sharing-aggregate.svg)           | [Y](/pages/2025-02-12-linux-18-docs_google_sharing-aggregate.svg)            |
+|             |             |             |
+|             |             |             |
+|             |             |             |
+|             |             |             |
+|             |             |             |
+|             |             |             |
+|             |             |             |
+|             |             |             |
+
+
 - [en_wikipedia_barack_obama](/pages/2025-02-12-windows-11-en_wikipedia_barack_obama-aggregate.svg)
 - [mail_yahoo](/pages/2025-02-12-windows-11-mail_yahoo-aggregate.svg)
 - [twitter_BarackObama](/pages/2025-02-12-windows-11-twitter_BarackObama-aggregate.svg)
