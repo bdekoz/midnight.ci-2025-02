@@ -1,0 +1,347 @@
+{
+  "platform": "windows-11",
+  "date": "2025-02-12",
+  "test": "cnn_index_html",
+  "url": "https://www.cnn.com/2021/03/22/weather/climate-change-warm-waters-lake-michigan/index.html",
+  "url_content_traits": {
+    "compression-dictionary": 0,
+    "dns-prefetch": 1,
+    "google-publisher-tag": 1,
+    "preconnect": 1,
+    "prefetch": 0,
+    "preload": 1,
+    "prerender": 0
+  },
+  "video_side_by_side": "2025-02-12-windows-11-cnn_index_html-side-by-side.mp4",
+  "firefox": {
+    "filmstrip_interval": 100,
+    "filmstrip": {
+      "00000": "2025-02-12-windows-11-cnn_index_html-firefox_00000.webp",
+      "00100": "2025-02-12-windows-11-cnn_index_html-firefox_00100.webp",
+      "00200": "2025-02-12-windows-11-cnn_index_html-firefox_00200.webp",
+      "00300": "2025-02-12-windows-11-cnn_index_html-firefox_00300.webp",
+      "00400": "2025-02-12-windows-11-cnn_index_html-firefox_00400.webp"
+    },
+    "power": {},
+    "metrics": {
+      "fcp": {
+        "median": "435",
+        "stddev": "26.000000",
+        "rsd": "5.898671"
+      },
+      "largestContentfulPaintloadTime": {
+        "median": "351",
+        "stddev": "21.000000",
+        "rsd": "5.833405"
+      },
+      "largestContentfulPaintrenderTime": {
+        "median": "351",
+        "stddev": "21.000000",
+        "rsd": "5.833405"
+      },
+      "redirectStart": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "redirectEnd": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "fetchStart": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "domainLookupStart": {
+        "median": "2",
+        "stddev": "1.000000",
+        "rsd": "32.471861"
+      },
+      "connectStart": {
+        "median": "2",
+        "stddev": "1.000000",
+        "rsd": "27.730073"
+      },
+      "requestStart": {
+        "median": "5",
+        "stddev": "1.000000",
+        "rsd": "23.691018"
+      },
+      "responseStart": {
+        "median": "6",
+        "stddev": "1.000000",
+        "rsd": "18.580144"
+      },
+      "domInteractive": {
+        "median": "379",
+        "stddev": "29.000000",
+        "rsd": "7.484555"
+      },
+      "domComplete": {
+        "median": "878",
+        "stddev": "47.000000",
+        "rsd": "5.299382"
+      },
+      "loadEventEnd": {
+        "median": "883",
+        "stddev": "47.000000",
+        "rsd": "5.296732"
+      },
+      "SpeedIndex": {
+        "median": "484",
+        "stddev": "39.000000",
+        "rsd": "7.864309"
+      },
+      "VisualComplete85": {
+        "median": "566",
+        "stddev": "89.000000",
+        "rsd": "15.232784"
+      },
+      "LastVisualChange": {
+        "median": "566",
+        "stddev": "99.000000",
+        "rsd": "16.666020"
+      },
+      "lcp_element": "\"\"https://media.cnn.com/api/v1/images/stellar/prod/210326170732-bill-weir-lake-michigan-03262021.jpg?q=x_21,y_94,h_893,w_1588,c_crop/w_1280\"\"",
+      "PerceptualSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "467.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "533.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "567.000000",
+          "percent": "100"
+        }
+      ],
+      "ContentfulSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "467.000000",
+          "percent": "95"
+        },
+        {
+          "timestamp": "533.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "567.000000",
+          "percent": "100"
+        }
+      ],
+      "SpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "467.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "533.000000",
+          "percent": "83"
+        },
+        {
+          "timestamp": "567.000000",
+          "percent": "100"
+        }
+      ]
+    }
+  },
+  "chrome": {
+    "filmstrip_interval": 100,
+    "filmstrip": {
+      "00000": "2025-02-12-windows-11-cnn_index_html-chrome_00000.webp",
+      "00100": "2025-02-12-windows-11-cnn_index_html-chrome_00100.webp",
+      "00200": "2025-02-12-windows-11-cnn_index_html-chrome_00200.webp",
+      "00300": "2025-02-12-windows-11-cnn_index_html-chrome_00300.webp"
+    },
+    "power": {},
+    "metrics": {
+      "fcp": {
+        "median": "236",
+        "stddev": "23.000000",
+        "rsd": "10.092376"
+      },
+      "largestContentfulPaintloadTime": {
+        "median": "200",
+        "stddev": "74.000000",
+        "rsd": "31.799933"
+      },
+      "largestContentfulPaintrenderTime": {
+        "median": "268",
+        "stddev": "98.000000",
+        "rsd": "30.686492"
+      },
+      "redirectStart": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "redirectEnd": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "fetchStart": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "270.801280"
+      },
+      "domainLookupStart": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "270.801280"
+      },
+      "connectStart": {
+        "median": "1",
+        "stddev": "0.000000",
+        "rsd": "25.119741"
+      },
+      "requestStart": {
+        "median": "7",
+        "stddev": "2.000000",
+        "rsd": "24.795904"
+      },
+      "responseStart": {
+        "median": "13",
+        "stddev": "2.000000",
+        "rsd": "18.924236"
+      },
+      "domInteractive": {
+        "median": "619",
+        "stddev": "41.000000",
+        "rsd": "6.698219"
+      },
+      "domComplete": {
+        "median": "929",
+        "stddev": "42.000000",
+        "rsd": "4.510104"
+      },
+      "loadEventEnd": {
+        "median": "937",
+        "stddev": "42.000000",
+        "rsd": "4.470347"
+      },
+      "SpeedIndex": {
+        "median": "289",
+        "stddev": "47.000000",
+        "rsd": "15.699106"
+      },
+      "VisualComplete85": {
+        "median": "267",
+        "stddev": "100.000000",
+        "rsd": "31.181141"
+      },
+      "LastVisualChange": {
+        "median": "466",
+        "stddev": "33.000000",
+        "rsd": "7.154513"
+      },
+      "lcp_element": "\"\"https://media.cnn.com/api/v1/images/stellar/prod/210326170732-bill-weir-lake-michigan-03262021.jpg?q=x_21,y_94,h_893,w_1588,c_crop/w_1280\"\"",
+      "PerceptualSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "266.000000",
+          "percent": "93"
+        },
+        {
+          "timestamp": "300.000000",
+          "percent": "94"
+        },
+        {
+          "timestamp": "333.000000",
+          "percent": "95"
+        },
+        {
+          "timestamp": "366.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "400.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "433.000000",
+          "percent": "100"
+        }
+      ],
+      "ContentfulSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "266.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "300.000000",
+          "percent": "92"
+        },
+        {
+          "timestamp": "333.000000",
+          "percent": "94"
+        },
+        {
+          "timestamp": "366.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "400.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "433.000000",
+          "percent": "100"
+        }
+      ],
+      "SpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "266.000000",
+          "percent": "86"
+        },
+        {
+          "timestamp": "300.000000",
+          "percent": "86"
+        },
+        {
+          "timestamp": "333.000000",
+          "percent": "86"
+        },
+        {
+          "timestamp": "366.000000",
+          "percent": "86"
+        },
+        {
+          "timestamp": "400.000000",
+          "percent": "86"
+        },
+        {
+          "timestamp": "433.000000",
+          "percent": "100"
+        }
+      ]
+    }
+  }
+}

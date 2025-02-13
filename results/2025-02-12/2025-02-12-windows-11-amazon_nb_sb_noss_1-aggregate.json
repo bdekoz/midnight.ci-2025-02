@@ -1,0 +1,401 @@
+{
+  "platform": "windows-11",
+  "date": "2025-02-12",
+  "test": "amazon_nb_sb_noss_1",
+  "url": "https://www.amazon.com/s?k=laptop&ref=nb_sb_noss_1",
+  "url_content_traits": {
+    "compression-dictionary": 0,
+    "dns-prefetch": 0,
+    "google-publisher-tag": 0,
+    "preconnect": 0,
+    "prefetch": 0,
+    "preload": 0,
+    "prerender": 0
+  },
+  "video_side_by_side": "2025-02-12-windows-11-amazon_nb_sb_noss_1-side-by-side.mp4",
+  "firefox": {
+    "filmstrip_interval": 100,
+    "filmstrip": {
+      "00000": "2025-02-12-windows-11-amazon_nb_sb_noss_1-firefox_00000.webp",
+      "00100": "2025-02-12-windows-11-amazon_nb_sb_noss_1-firefox_00100.webp",
+      "00200": "2025-02-12-windows-11-amazon_nb_sb_noss_1-firefox_00200.webp",
+      "00300": "2025-02-12-windows-11-amazon_nb_sb_noss_1-firefox_00300.webp",
+      "00400": "2025-02-12-windows-11-amazon_nb_sb_noss_1-firefox_00400.webp",
+      "00500": "2025-02-12-windows-11-amazon_nb_sb_noss_1-firefox_00500.webp",
+      "00600": "2025-02-12-windows-11-amazon_nb_sb_noss_1-firefox_00600.webp",
+      "00700": "2025-02-12-windows-11-amazon_nb_sb_noss_1-firefox_00700.webp",
+      "00800": "2025-02-12-windows-11-amazon_nb_sb_noss_1-firefox_00800.webp",
+      "00900": "2025-02-12-windows-11-amazon_nb_sb_noss_1-firefox_00900.webp",
+      "01000": "2025-02-12-windows-11-amazon_nb_sb_noss_1-firefox_01000.webp",
+      "01100": "2025-02-12-windows-11-amazon_nb_sb_noss_1-firefox_01100.webp"
+    },
+    "power": {},
+    "metrics": {
+      "fcp": {
+        "median": "211",
+        "stddev": "18.000000",
+        "rsd": "8.517840"
+      },
+      "largestContentfulPaintloadTime": {
+        "median": "366",
+        "stddev": "30.000000",
+        "rsd": "8.113090"
+      },
+      "largestContentfulPaintrenderTime": {
+        "median": "422",
+        "stddev": "42.000000",
+        "rsd": "10.094442"
+      },
+      "redirectStart": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "redirectEnd": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "fetchStart": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "domainLookupStart": {
+        "median": "2",
+        "stddev": "1.000000",
+        "rsd": "27.730073"
+      },
+      "connectStart": {
+        "median": "2",
+        "stddev": "1.000000",
+        "rsd": "43.894723"
+      },
+      "requestStart": {
+        "median": "6",
+        "stddev": "1.000000",
+        "rsd": "21.485462"
+      },
+      "responseStart": {
+        "median": "7",
+        "stddev": "2.000000",
+        "rsd": "20.748580"
+      },
+      "domInteractive": {
+        "median": "342",
+        "stddev": "29.000000",
+        "rsd": "8.340526"
+      },
+      "domComplete": {
+        "median": "446",
+        "stddev": "35.000000",
+        "rsd": "7.527611"
+      },
+      "loadEventEnd": {
+        "median": "470",
+        "stddev": "39.000000",
+        "rsd": "8.124636"
+      },
+      "SpeedIndex": {
+        "median": "351",
+        "stddev": "43.000000",
+        "rsd": "11.880387"
+      },
+      "VisualComplete85": {
+        "median": "433",
+        "stddev": "58.000000",
+        "rsd": "13.982005"
+      },
+      "LastVisualChange": {
+        "median": "1267",
+        "stddev": "235.000000",
+        "rsd": "17.899831"
+      },
+      "lcp_element": "\"\"https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ada75579-6fee-4ff2-9e07-287c73ffa111.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG\"\"",
+      "PerceptualSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "267.000000",
+          "percent": "75"
+        },
+        {
+          "timestamp": "333.000000",
+          "percent": "83"
+        },
+        {
+          "timestamp": "433.000000",
+          "percent": "94"
+        },
+        {
+          "timestamp": "467.000000",
+          "percent": "94"
+        },
+        {
+          "timestamp": "500.000000",
+          "percent": "94"
+        },
+        {
+          "timestamp": "1100.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "1133.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1167.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1200.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1333.000000",
+          "percent": "100"
+        }
+      ],
+      "ContentfulSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "267.000000",
+          "percent": "90"
+        },
+        {
+          "timestamp": "333.000000",
+          "percent": "93"
+        },
+        {
+          "timestamp": "433.000000",
+          "percent": "94"
+        },
+        {
+          "timestamp": "467.000000",
+          "percent": "94"
+        },
+        {
+          "timestamp": "500.000000",
+          "percent": "95"
+        },
+        {
+          "timestamp": "1100.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1133.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1167.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "1200.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "1333.000000",
+          "percent": "100"
+        }
+      ],
+      "SpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "267.000000",
+          "percent": "68"
+        },
+        {
+          "timestamp": "333.000000",
+          "percent": "77"
+        },
+        {
+          "timestamp": "433.000000",
+          "percent": "95"
+        },
+        {
+          "timestamp": "467.000000",
+          "percent": "95"
+        },
+        {
+          "timestamp": "500.000000",
+          "percent": "95"
+        },
+        {
+          "timestamp": "1100.000000",
+          "percent": "96"
+        },
+        {
+          "timestamp": "1133.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "1167.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "1200.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "1333.000000",
+          "percent": "100"
+        }
+      ]
+    }
+  },
+  "chrome": {
+    "filmstrip_interval": 100,
+    "filmstrip": {
+      "00000": "2025-02-12-windows-11-amazon_nb_sb_noss_1-chrome_00000.webp",
+      "00100": "2025-02-12-windows-11-amazon_nb_sb_noss_1-chrome_00100.webp",
+      "00200": "2025-02-12-windows-11-amazon_nb_sb_noss_1-chrome_00200.webp"
+    },
+    "power": {},
+    "metrics": {
+      "fcp": {
+        "median": "220",
+        "stddev": "20.000000",
+        "rsd": "8.837958"
+      },
+      "largestContentfulPaintloadTime": {
+        "median": "110",
+        "stddev": "10.000000",
+        "rsd": "9.144155"
+      },
+      "largestContentfulPaintrenderTime": {
+        "median": "252",
+        "stddev": "47.000000",
+        "rsd": "17.575172"
+      },
+      "redirectStart": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "redirectEnd": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "fetchStart": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "200.000000"
+      },
+      "domainLookupStart": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "200.000000"
+      },
+      "connectStart": {
+        "median": "1",
+        "stddev": "0.000000",
+        "rsd": "25.119741"
+      },
+      "requestStart": {
+        "median": "8",
+        "stddev": "3.000000",
+        "rsd": "35.877322"
+      },
+      "responseStart": {
+        "median": "13",
+        "stddev": "4.000000",
+        "rsd": "25.905495"
+      },
+      "domInteractive": {
+        "median": "296",
+        "stddev": "41.000000",
+        "rsd": "13.661524"
+      },
+      "domComplete": {
+        "median": "340",
+        "stddev": "37.000000",
+        "rsd": "10.730966"
+      },
+      "loadEventEnd": {
+        "median": "355",
+        "stddev": "48.000000",
+        "rsd": "12.833258"
+      },
+      "SpeedIndex": {
+        "median": "299",
+        "stddev": "45.000000",
+        "rsd": "14.689580"
+      },
+      "VisualComplete85": {
+        "median": "300",
+        "stddev": "45.000000",
+        "rsd": "14.691091"
+      },
+      "LastVisualChange": {
+        "median": "300",
+        "stddev": "46.000000",
+        "rsd": "14.474549"
+      },
+      "lcp_element": "\"\"https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d98464a8-6f13-4a70-a729-1ab1a3b7c18b._CR0,0,1200,628_SX430_QL70_.jpg\"\"",
+      "PerceptualSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "233.000000",
+          "percent": "77"
+        },
+        {
+          "timestamp": "266.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "300.000000",
+          "percent": "100"
+        }
+      ],
+      "ContentfulSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "233.000000",
+          "percent": "87"
+        },
+        {
+          "timestamp": "266.000000",
+          "percent": "87"
+        },
+        {
+          "timestamp": "300.000000",
+          "percent": "100"
+        }
+      ],
+      "SpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "233.000000",
+          "percent": "1"
+        },
+        {
+          "timestamp": "266.000000",
+          "percent": "1"
+        },
+        {
+          "timestamp": "300.000000",
+          "percent": "100"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,427 @@
+{
+  "platform": "windows-11",
+  "date": "2025-02-12",
+  "test": "instagram",
+  "url": "https://www.instagram.com/",
+  "url_content_traits": {
+    "compression-dictionary": 0,
+    "dns-prefetch": 0,
+    "google-publisher-tag": 0,
+    "preconnect": 0,
+    "prefetch": 0,
+    "preload": 1,
+    "prerender": 0
+  },
+  "video_side_by_side": "2025-02-12-windows-11-instagram-side-by-side.mp4",
+  "firefox": {
+    "filmstrip_interval": 100,
+    "filmstrip": {
+      "00000": "2025-02-12-windows-11-instagram-firefox_00000.webp",
+      "00100": "2025-02-12-windows-11-instagram-firefox_00100.webp",
+      "00200": "2025-02-12-windows-11-instagram-firefox_00200.webp",
+      "00300": "2025-02-12-windows-11-instagram-firefox_00300.webp",
+      "00400": "2025-02-12-windows-11-instagram-firefox_00400.webp",
+      "00500": "2025-02-12-windows-11-instagram-firefox_00500.webp",
+      "00600": "2025-02-12-windows-11-instagram-firefox_00600.webp",
+      "00700": "2025-02-12-windows-11-instagram-firefox_00700.webp"
+    },
+    "power": {},
+    "metrics": {
+      "fcp": {
+        "median": "66",
+        "stddev": "16.000000",
+        "rsd": "22.786043"
+      },
+      "largestContentfulPaintloadTime": {
+        "median": "712",
+        "stddev": "55.000000",
+        "rsd": "7.467133"
+      },
+      "largestContentfulPaintrenderTime": {
+        "median": "744",
+        "stddev": "60.000000",
+        "rsd": "7.796999"
+      },
+      "redirectStart": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "redirectEnd": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "fetchStart": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "domainLookupStart": {
+        "median": "2",
+        "stddev": "1.000000",
+        "rsd": "33.971679"
+      },
+      "connectStart": {
+        "median": "2",
+        "stddev": "0.000000",
+        "rsd": "9.605842"
+      },
+      "requestStart": {
+        "median": "5",
+        "stddev": "2.000000",
+        "rsd": "38.603000"
+      },
+      "responseStart": {
+        "median": "6",
+        "stddev": "3.000000",
+        "rsd": "39.742052"
+      },
+      "domInteractive": {
+        "median": "46",
+        "stddev": "17.000000",
+        "rsd": "33.200488"
+      },
+      "domComplete": {
+        "median": "356",
+        "stddev": "26.000000",
+        "rsd": "7.151947"
+      },
+      "loadEventEnd": {
+        "median": "356",
+        "stddev": "26.000000",
+        "rsd": "7.156667"
+      },
+      "SpeedIndex": {
+        "median": "703",
+        "stddev": "73.000000",
+        "rsd": "10.096846"
+      },
+      "VisualComplete85": {
+        "median": "767",
+        "stddev": "65.000000",
+        "rsd": "8.223566"
+      },
+      "LastVisualChange": {
+        "median": "800",
+        "stddev": "85.000000",
+        "rsd": "10.406073"
+      },
+      "lcp_element": "\"\"https://scontent.cdninstagram.com/v/t51.2885-15/435010396_1342914056377112_3827101702227145200_n.jpg?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_ohc=rEltuhW9L60Ab7nbuHF&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzMzNTk3NTU5MTEyMTg3MTE5Mg%3D%3D.2-ccb7-5&oh=00_AfA5m01YeOwsCmCVEikLHBIS4SIc8A9HzdFCEGV0_gRl1A&oe=6614DFFB&_nc_sid=10d13b\"\"",
+      "PerceptualSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "67.000000",
+          "percent": "15"
+        },
+        {
+          "timestamp": "600.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "700.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "733.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "767.000000",
+          "percent": "100"
+        }
+      ],
+      "ContentfulSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "67.000000",
+          "percent": "25"
+        },
+        {
+          "timestamp": "600.000000",
+          "percent": "87"
+        },
+        {
+          "timestamp": "700.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "733.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "767.000000",
+          "percent": "100"
+        }
+      ],
+      "SpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "67.000000",
+          "percent": "1"
+        },
+        {
+          "timestamp": "600.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "700.000000",
+          "percent": "82"
+        },
+        {
+          "timestamp": "733.000000",
+          "percent": "83"
+        },
+        {
+          "timestamp": "767.000000",
+          "percent": "100"
+        }
+      ]
+    }
+  },
+  "chrome": {
+    "filmstrip_interval": 100,
+    "filmstrip": {
+      "00000": "2025-02-12-windows-11-instagram-chrome_00000.webp",
+      "00100": "2025-02-12-windows-11-instagram-chrome_00100.webp",
+      "00200": "2025-02-12-windows-11-instagram-chrome_00200.webp",
+      "00300": "2025-02-12-windows-11-instagram-chrome_00300.webp",
+      "00400": "2025-02-12-windows-11-instagram-chrome_00400.webp",
+      "00500": "2025-02-12-windows-11-instagram-chrome_00500.webp",
+      "00600": "2025-02-12-windows-11-instagram-chrome_00600.webp",
+      "00700": "2025-02-12-windows-11-instagram-chrome_00700.webp",
+      "00800": "2025-02-12-windows-11-instagram-chrome_00800.webp"
+    },
+    "power": {},
+    "metrics": {
+      "fcp": {
+        "median": "84",
+        "stddev": "14.000000",
+        "rsd": "15.845998"
+      },
+      "largestContentfulPaintloadTime": {
+        "median": "605",
+        "stddev": "29.000000",
+        "rsd": "4.691486"
+      },
+      "largestContentfulPaintrenderTime": {
+        "median": "704",
+        "stddev": "29.000000",
+        "rsd": "4.099261"
+      },
+      "redirectStart": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "redirectEnd": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "fetchStart": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "200.000000"
+      },
+      "domainLookupStart": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "200.000000"
+      },
+      "connectStart": {
+        "median": "1",
+        "stddev": "0.000000",
+        "rsd": "18.842229"
+      },
+      "requestStart": {
+        "median": "7",
+        "stddev": "3.000000",
+        "rsd": "35.747394"
+      },
+      "responseStart": {
+        "median": "14",
+        "stddev": "15.000000",
+        "rsd": "86.121485"
+      },
+      "domInteractive": {
+        "median": "161",
+        "stddev": "31.000000",
+        "rsd": "19.121538"
+      },
+      "domComplete": {
+        "median": "705",
+        "stddev": "97.000000",
+        "rsd": "13.255858"
+      },
+      "loadEventEnd": {
+        "median": "708",
+        "stddev": "97.000000",
+        "rsd": "13.233423"
+      },
+      "SpeedIndex": {
+        "median": "641",
+        "stddev": "38.000000",
+        "rsd": "5.931568"
+      },
+      "VisualComplete85": {
+        "median": "700",
+        "stddev": "44.000000",
+        "rsd": "6.261781"
+      },
+      "LastVisualChange": {
+        "median": "900",
+        "stddev": "33.000000",
+        "rsd": "3.654485"
+      },
+      "lcp_element": "\"\"https://scontent.cdninstagram.com/v/t51.2885-15/435010396_1342914056377112_3827101702227145200_n.jpg?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_ohc=rEltuhW9L60Ab7nbuHF&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzMzNTk3NTU5MTEyMTg3MTE5Mg%3D%3D.2-ccb7-5&oh=00_AfA5m01YeOwsCmCVEikLHBIS4SIc8A9HzdFCEGV0_gRl1A&oe=6614DFFB&_nc_sid=10d13b\"\"",
+      "PerceptualSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "100.000000",
+          "percent": "33"
+        },
+        {
+          "timestamp": "533.000000",
+          "percent": "86"
+        },
+        {
+          "timestamp": "600.000000",
+          "percent": "92"
+        },
+        {
+          "timestamp": "633.000000",
+          "percent": "94"
+        },
+        {
+          "timestamp": "700.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "733.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "800.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "833.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "866.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "900.000000",
+          "percent": "100"
+        }
+      ],
+      "ContentfulSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "100.000000",
+          "percent": "24"
+        },
+        {
+          "timestamp": "533.000000",
+          "percent": "85"
+        },
+        {
+          "timestamp": "600.000000",
+          "percent": "95"
+        },
+        {
+          "timestamp": "633.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "700.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "733.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "800.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "833.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "866.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "900.000000",
+          "percent": "100"
+        }
+      ],
+      "SpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "100.000000",
+          "percent": "5"
+        },
+        {
+          "timestamp": "533.000000",
+          "percent": "23"
+        },
+        {
+          "timestamp": "600.000000",
+          "percent": "23"
+        },
+        {
+          "timestamp": "633.000000",
+          "percent": "24"
+        },
+        {
+          "timestamp": "700.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "733.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "800.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "833.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "866.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "900.000000",
+          "percent": "100"
+        }
+      ]
+    }
+  }
+}
