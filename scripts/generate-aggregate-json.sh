@@ -37,8 +37,10 @@ generate_platform_by_sitelist() {
     SITELIST="$2"
     ISODATE="$3"
 
-   MDOWNFILE=index-proto.md
-   echo "## Results" >> $MDOWNFILE
+   MDOWNIDX=index-proto.md
+   echo "## Results" >> $MDOWNIDX
+
+   JSIDX=index-proto.js
 
    for i in `cat ${SITELIST}`
    do
@@ -58,7 +60,10 @@ generate_platform_by_sitelist() {
        $XAGGREGATE "$URLM" "$i" "$PLATFORM" "$ISODATE" "${ARTIFACT_BASE}-side-by-side.mp4" "$FFFJ" "$FFMJ" "$CFJ" "$CMJ"
 
        # generate markdown index
-       echo "- [${URLM}](/pages/${ARTIFACT_BASE}-aggregate.svg)" >> $MDOWNFILE
+       echo "- [${URLM}](/pages/${ARTIFACT_BASE}-aggregate.svg)" >> $MDOWNIDX
+
+       # generate js index
+       echo "\"${URLM}\", " >> $JSIDX
    done
 }
 
