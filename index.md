@@ -6,13 +6,71 @@
 
 
 ## Results
+<table>
+<thead>
+	<tr>
+		<th>URL</th>
+		<th>Windows</th>
+		<th>Linux</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>docs_google_sharing</td>
+		<td>[Y](/pages/2025-02-12-windows-11-docs_google_sharing-aggregate.svg)</td>
+		<td>[Y](/pages/2025-02-12-linux-18-docs_google_sharing-aggregate.svg)</td>
+	</tr>
+	<tr>
+		<td>en_wikipedia_barack_obama</td>
+		<td>[Y](/pages/2025-02-12-windows-11-en_wikipedia_barack_obama-aggregate.svg)</td>
+		<td>[Y](/pages/2025-02-12-linux-18-en_wikipedia_barack_obama-aggregate.svg)</td>
+	</tr>
+	<tr>
+		<td>mail_yahoo</td>
+		<td>[Y](/pages/2025-02-12-windows-11-mail_yahoo-aggregate.svg)</td>
+		<td>[Y](/pages/2025-02-12-linux-18-mail_yahoo-aggregate.svg)</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+
+</tbody>
+</table>
+
+
 | URL         | Windows     | Linux       |
 | ----------- | ----------- | ----------- |
-| docs_google_sharing            |  [Y](/pages/2025-02-12-windows-11-docs_google_sharing-aggregate.svg)           | [Y](/pages/2025-02-12-linux-18-docs_google_sharing-aggregate.svg)            |
-| en_wikipedia_barack_obama      | [Y](/pages/2025-02-12-windows-11-en_wikipedia_barack_obama-aggregate.svg)            | [Y](/pages/2025-02-12-linux-18-en_wikipedia_barack_obama-aggregate.svg)             |
-| mail_yahoo            | [Y](/pages/2025-02-12-windows-11-mail_yahoo-aggregate.svg)            | [Y](/pages/2025-02-12-linux-18-mail_yahoo-aggregate.svg)            |
+|             |             |            |
+|       |             |              |
+|             |           |           |
 
-//|             |             |             |
 
 
 
