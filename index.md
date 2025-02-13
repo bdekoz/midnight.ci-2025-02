@@ -9,18 +9,14 @@
 | URL         | Windows     | Linux       |
 | ----------- | ----------- | ----------- |
 | docs_google_sharing            |  [Y](/pages/2025-02-12-windows-11-docs_google_sharing-aggregate.svg)           | [Y](/pages/2025-02-12-linux-18-docs_google_sharing-aggregate.svg)            |
-|             |             |             |
-|             |             |             |
-|             |             |             |
-|             |             |             |
-|             |             |             |
-|             |             |             |
-|             |             |             |
-|             |             |             |
+| en_wikipedia_barack_obama      | [Y](/pages/2025-02-12-windows-11-en_wikipedia_barack_obama-aggregate.svg)            | [Y](/pages/2025-02-12-linux-18-en_wikipedia_barack_obama-aggregate.svg)             |
+| mail_yahoo            | [Y](/pages/2025-02-12-windows-11-mail_yahoo-aggregate.svg)            | [Y](/pages/2025-02-12-linux-18-mail_yahoo-aggregate.svg)            |
+
+//|             |             |             |
 
 
-- [en_wikipedia_barack_obama](/pages/2025-02-12-windows-11-en_wikipedia_barack_obama-aggregate.svg)
-- [mail_yahoo](/pages/2025-02-12-windows-11-mail_yahoo-aggregate.svg)
+
+
 - [twitter_BarackObama](/pages/2025-02-12-windows-11-twitter_BarackObama-aggregate.svg)
 - [amazon_nb_sb_noss_1](/pages/2025-02-12-windows-11-amazon_nb_sb_noss_1-aggregate.svg)
 - [bing_barack_obama](/pages/2025-02-12-windows-11-bing_barack_obama-aggregate.svg)
