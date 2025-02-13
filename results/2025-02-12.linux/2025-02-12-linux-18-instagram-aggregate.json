@@ -1,0 +1,446 @@
+{
+  "platform": "linux-18",
+  "date": "2025-02-12",
+  "test": "instagram",
+  "url": "https://www.instagram.com/",
+  "url_content_traits": {
+    "compression-dictionary": 0,
+    "dns-prefetch": 0,
+    "google-publisher-tag": 0,
+    "preconnect": 0,
+    "prefetch": 0,
+    "preload": 1,
+    "prerender": 0
+  },
+  "video_side_by_side": "2025-02-12-linux-18-instagram-side-by-side.mp4",
+  "firefox": {
+    "filmstrip_interval": 100,
+    "filmstrip": {
+      "00000": "2025-02-12-linux-18-instagram-firefox_00000.webp",
+      "00100": "2025-02-12-linux-18-instagram-firefox_00100.webp",
+      "00200": "2025-02-12-linux-18-instagram-firefox_00200.webp",
+      "00300": "2025-02-12-linux-18-instagram-firefox_00300.webp",
+      "00400": "2025-02-12-linux-18-instagram-firefox_00400.webp",
+      "00500": "2025-02-12-linux-18-instagram-firefox_00500.webp",
+      "00600": "2025-02-12-linux-18-instagram-firefox_00600.webp",
+      "00700": "2025-02-12-linux-18-instagram-firefox_00700.webp",
+      "00800": "2025-02-12-linux-18-instagram-firefox_00800.webp",
+      "00900": "2025-02-12-linux-18-instagram-firefox_00900.webp",
+      "01000": "2025-02-12-linux-18-instagram-firefox_01000.webp",
+      "01100": "2025-02-12-linux-18-instagram-firefox_01100.webp",
+      "01200": "2025-02-12-linux-18-instagram-firefox_01200.webp",
+      "01300": "2025-02-12-linux-18-instagram-firefox_01300.webp",
+      "01400": "2025-02-12-linux-18-instagram-firefox_01400.webp",
+      "01500": "2025-02-12-linux-18-instagram-firefox_01500.webp",
+      "01600": "2025-02-12-linux-18-instagram-firefox_01600.webp",
+      "01700": "2025-02-12-linux-18-instagram-firefox_01700.webp"
+    },
+    "power": {},
+    "metrics": {
+      "fcp": {
+        "median": "264",
+        "stddev": "31.000000",
+        "rsd": "11.869677"
+      },
+      "largestContentfulPaintloadTime": {
+        "median": "1775",
+        "stddev": "64.000000",
+        "rsd": "3.619243"
+      },
+      "largestContentfulPaintrenderTime": {
+        "median": "1800",
+        "stddev": "64.000000",
+        "rsd": "3.555669"
+      },
+      "redirectStart": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "redirectEnd": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "fetchStart": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "domainLookupStart": {
+        "median": "3",
+        "stddev": "1.000000",
+        "rsd": "31.705339"
+      },
+      "connectStart": {
+        "median": "3",
+        "stddev": "1.000000",
+        "rsd": "33.071891"
+      },
+      "requestStart": {
+        "median": "7",
+        "stddev": "3.000000",
+        "rsd": "40.493352"
+      },
+      "responseStart": {
+        "median": "10",
+        "stddev": "4.000000",
+        "rsd": "36.992971"
+      },
+      "domInteractive": {
+        "median": "234",
+        "stddev": "31.000000",
+        "rsd": "13.067822"
+      },
+      "domComplete": {
+        "median": "938",
+        "stddev": "428.000000",
+        "rsd": "39.048524"
+      },
+      "loadEventEnd": {
+        "median": "938",
+        "stddev": "429.000000",
+        "rsd": "39.065586"
+      },
+      "SpeedIndex": {
+        "median": "1533",
+        "stddev": "45.000000",
+        "rsd": "2.926040"
+      },
+      "VisualComplete85": {
+        "median": "1840",
+        "stddev": "63.000000",
+        "rsd": "3.376322"
+      },
+      "LastVisualChange": {
+        "median": "1880",
+        "stddev": "84.000000",
+        "rsd": "4.464582"
+      },
+      "lcp_element": "\"\"https://scontent.cdninstagram.com/v/t51.2885-15/435010396_1342914056377112_3827101702227145200_n.jpg?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_ohc=rEltuhW9L60Ab7nbuHF&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzMzNTk3NTU5MTEyMTg3MTE5Mg%3D%3D.2-ccb7-5&oh=00_AfA5m01YeOwsCmCVEikLHBIS4SIc8A9HzdFCEGV0_gRl1A&oe=6614DFFB&_nc_sid=10d13b\"\"",
+      "PerceptualSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "320.000000",
+          "percent": "30"
+        },
+        {
+          "timestamp": "1360.000000",
+          "percent": "88"
+        },
+        {
+          "timestamp": "1480.000000",
+          "percent": "94"
+        },
+        {
+          "timestamp": "1560.000000",
+          "percent": "96"
+        },
+        {
+          "timestamp": "1600.000000",
+          "percent": "97"
+        },
+        {
+          "timestamp": "1800.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "1840.000000",
+          "percent": "100"
+        }
+      ],
+      "ContentfulSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "320.000000",
+          "percent": "40"
+        },
+        {
+          "timestamp": "1360.000000",
+          "percent": "90"
+        },
+        {
+          "timestamp": "1480.000000",
+          "percent": "95"
+        },
+        {
+          "timestamp": "1560.000000",
+          "percent": "98"
+        },
+        {
+          "timestamp": "1600.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1800.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "1840.000000",
+          "percent": "100"
+        }
+      ],
+      "SpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "320.000000",
+          "percent": "1"
+        },
+        {
+          "timestamp": "1360.000000",
+          "percent": "2"
+        },
+        {
+          "timestamp": "1480.000000",
+          "percent": "78"
+        },
+        {
+          "timestamp": "1560.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "1600.000000",
+          "percent": "80"
+        },
+        {
+          "timestamp": "1800.000000",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1840.000000",
+          "percent": "100"
+        }
+      ]
+    }
+  },
+  "chrome": {
+    "filmstrip_interval": 100,
+    "filmstrip": {
+      "00000": "2025-02-12-linux-18-instagram-chrome_00000.webp",
+      "00100": "2025-02-12-linux-18-instagram-chrome_00100.webp",
+      "00200": "2025-02-12-linux-18-instagram-chrome_00200.webp",
+      "00300": "2025-02-12-linux-18-instagram-chrome_00300.webp",
+      "00400": "2025-02-12-linux-18-instagram-chrome_00400.webp",
+      "00500": "2025-02-12-linux-18-instagram-chrome_00500.webp",
+      "00600": "2025-02-12-linux-18-instagram-chrome_00600.webp",
+      "00700": "2025-02-12-linux-18-instagram-chrome_00700.webp",
+      "00800": "2025-02-12-linux-18-instagram-chrome_00800.webp",
+      "00900": "2025-02-12-linux-18-instagram-chrome_00900.webp",
+      "01000": "2025-02-12-linux-18-instagram-chrome_01000.webp",
+      "01100": "2025-02-12-linux-18-instagram-chrome_01100.webp",
+      "01200": "2025-02-12-linux-18-instagram-chrome_01200.webp",
+      "01300": "2025-02-12-linux-18-instagram-chrome_01300.webp",
+      "01400": "2025-02-12-linux-18-instagram-chrome_01400.webp",
+      "01500": "2025-02-12-linux-18-instagram-chrome_01500.webp",
+      "01600": "2025-02-12-linux-18-instagram-chrome_01600.webp",
+      "01700": "2025-02-12-linux-18-instagram-chrome_01700.webp"
+    },
+    "power": {},
+    "metrics": {
+      "fcp": {
+        "median": "244",
+        "stddev": "17.000000",
+        "rsd": "6.891297"
+      },
+      "largestContentfulPaintloadTime": {
+        "median": "1705",
+        "stddev": "111.000000",
+        "rsd": "6.673034"
+      },
+      "largestContentfulPaintrenderTime": {
+        "median": "1840",
+        "stddev": "111.000000",
+        "rsd": "6.133056"
+      },
+      "redirectStart": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "redirectEnd": {
+        "median": "0",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "fetchStart": {
+        "median": "1",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "domainLookupStart": {
+        "median": "1",
+        "stddev": "0.000000",
+        "rsd": "0.000000"
+      },
+      "connectStart": {
+        "median": "2",
+        "stddev": "0.000000",
+        "rsd": "18.181818"
+      },
+      "requestStart": {
+        "median": "156",
+        "stddev": "9.000000",
+        "rsd": "5.497753"
+      },
+      "responseStart": {
+        "median": "182",
+        "stddev": "9.000000",
+        "rsd": "4.886005"
+      },
+      "domInteractive": {
+        "median": "628",
+        "stddev": "36.000000",
+        "rsd": "5.601809"
+      },
+      "domComplete": {
+        "median": "2249",
+        "stddev": "129.000000",
+        "rsd": "5.732291"
+      },
+      "loadEventEnd": {
+        "median": "2254",
+        "stddev": "129.000000",
+        "rsd": "5.730796"
+      },
+      "SpeedIndex": {
+        "median": "1685",
+        "stddev": "93.000000",
+        "rsd": "5.645926"
+      },
+      "VisualComplete85": {
+        "median": "1866",
+        "stddev": "117.000000",
+        "rsd": "6.473139"
+      },
+      "LastVisualChange": {
+        "median": "1867",
+        "stddev": "65.000000",
+        "rsd": "3.423422"
+      },
+      "lcp_element": "\"\"https://scontent.cdninstagram.com/v/t51.2885-15/435010396_1342914056377112_3827101702227145200_n.jpg?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzNTAuc2RyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_ohc=rEltuhW9L60Ab7nbuHF&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzMzNTk3NTU5MTEyMTg3MTE5Mg%3D%3D.2-ccb7-5&oh=00_AfA5m01YeOwsCmCVEikLHBIS4SIc8A9HzdFCEGV0_gRl1A&oe=6614DFFB&_nc_sid=10d13b\"\"",
+      "PerceptualSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "233.000000",
+          "percent": "30"
+        },
+        {
+          "timestamp": "300.000000",
+          "percent": "33"
+        },
+        {
+          "timestamp": "1200.000000",
+          "percent": "79"
+        },
+        {
+          "timestamp": "1366.000000",
+          "percent": "84"
+        },
+        {
+          "timestamp": "1533.000000",
+          "percent": "89"
+        },
+        {
+          "timestamp": "1566.000000",
+          "percent": "90"
+        },
+        {
+          "timestamp": "1633.000000",
+          "percent": "92"
+        },
+        {
+          "timestamp": "1866.000000",
+          "percent": "100"
+        }
+      ],
+      "ContentfulSpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "233.000000",
+          "percent": "20"
+        },
+        {
+          "timestamp": "300.000000",
+          "percent": "26"
+        },
+        {
+          "timestamp": "1200.000000",
+          "percent": "76"
+        },
+        {
+          "timestamp": "1366.000000",
+          "percent": "86"
+        },
+        {
+          "timestamp": "1533.000000",
+          "percent": "94"
+        },
+        {
+          "timestamp": "1566.000000",
+          "percent": "96"
+        },
+        {
+          "timestamp": "1633.000000",
+          "percent": "100"
+        },
+        {
+          "timestamp": "1866.000000",
+          "percent": "100"
+        }
+      ],
+      "SpeedIndexProgress": [
+        {
+          "timestamp": "0.000000",
+          "percent": "0"
+        },
+        {
+          "timestamp": "233.000000",
+          "percent": "3"
+        },
+        {
+          "timestamp": "300.000000",
+          "percent": "4"
+        },
+        {
+          "timestamp": "1200.000000",
+          "percent": "20"
+        },
+        {
+          "timestamp": "1366.000000",
+          "percent": "20"
+        },
+        {
+          "timestamp": "1533.000000",
+          "percent": "22"
+        },
+        {
+          "timestamp": "1566.000000",
+          "percent": "23"
+        },
+        {
+          "timestamp": "1633.000000",
+          "percent": "23"
+        },
+        {
+          "timestamp": "1866.000000",
+          "percent": "100"
+        }
+      ]
+    }
+  }
+}
