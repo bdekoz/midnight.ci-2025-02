@@ -93,6 +93,7 @@ generate_platform_by_sitelist() {
 
 }
 
-
-TPMETADATA="android-15-p8"
-generate_platform_by_sitelist "$TPMETADATA" "./sitelist.txt" "2025-02-09"
+#TPMETADATA="android-15-p8"
+TPMETADATA="linux-18"
+#TPMETADATA="windows-11"
+generate_platform_by_sitelist "$TPMETADATA" "./sitelist.txt" "2025-02-12"

@@ -33,13 +33,6 @@ get_side_by_side() {
 }
 
 #get_side_by_side "android-amazon" "2024-11-11"
-#get_side_by_side "linux-amazon" "2024-11-20"
-#get_side_by_side "win11-amazon" "2024-11-20"
-
-#get_side_by_side "android-allrecipes" "2024-11-20"
-#get_side_by_side "android-espn" "2024-11-20"
-#get_side_by_side "android-micros-sup" "2024-11-20"
-
 
 # assume data layout as
 # results/2024-11-10/chrome_release,fenix_nightly/[minified-url].[json | mp4]
@@ -77,5 +70,7 @@ generate_platform_by_sitelist() {
 
 }
 
-TPMETADATA="android-15-p8"
-generate_platform_by_sitelist "$TPMETADATA" "./sitelist.txt" "2025-02-09"
+#TPMETADATA="android-15-p8"
+TPMETADATA="linux-18"
+#TPMETADATA="windows-11"
+generate_platform_by_sitelist "$TPMETADATA" "./sitelist.txt" "2025-02-12"
