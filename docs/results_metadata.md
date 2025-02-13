@@ -1,9 +1,9 @@
 
 # Testing Notes
 
-- device: Pixel 8
-- os: Android 15
+- device: CI
+- os: Windows 11, Linux 18.04
 
-- iterations: 1/8/20
+- iterations: 20
 
 - variant:

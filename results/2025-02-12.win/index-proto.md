@@ -8,5 +8,3 @@
 - [cnn_index_html](/pages/2025-02-12-windows-11-cnn_index_html-aggregate.svg)
 - [fandom_fallout_76](/pages/2025-02-12-windows-11-fandom_fallout_76-aggregate.svg)
 - [instagram](/pages/2025-02-12-windows-11-instagram-aggregate.svg)
-## Results
-- [amazon_nb_sb_noss_1](/pages/2025-02-12-windows-11-amazon_nb_sb_noss_1-aggregate.svg)
