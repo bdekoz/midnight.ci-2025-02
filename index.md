@@ -17,8 +17,8 @@
 <tbody>
 	<tr>
 		<td>docs_google_sharing</td>
-		<td><a href="~/pages/2025-02-12-windows-11-docs_google_sharing-aggregate.svg">Y</a></td>
-		<td><a href="~/pages/2025-02-12-linux-18-docs_google_sharing-aggregate.svg">Y</a></td>
+		<td><a href='pages/2025-02-12-windows-11-docs_google_sharing-aggregate.svg'>Y</a></td>
+		<td><a href="pages/2025-02-12-linux-18-docs_google_sharing-aggregate.svg">Y</a></td>
 	</tr>
 	<tr>
 		<td>en_wikipedia_barack_obama</td>
