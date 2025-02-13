@@ -2,7 +2,7 @@
 - [progressive metrics](/docs/about_1.md)
 - [key to visualization](/docs/about_2.md)
 - [test and device metadata](/docs/results_metadata.md)
-- [notes](/docs/observations.md)
+- [notes](/docs/observations_notes.md)
 
 
 ## Results
